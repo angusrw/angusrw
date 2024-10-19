@@ -1,6 +1,6 @@
 <img src="https://github.com/angusrw/angusrw/blob/aef34840a03f397bfdefa39f11b32368541a4e58/img/welcome2.gif" alt="Welcome" align="center" width=365>
 
-I'm a data scientist/researcher/engineer working in Online Safety & AI safety research. My work spans training language models to detect harmful content, applying the results of ML research to analyse social media data, developing safety evaluations, and building platforms for deploying models for inference at scale and analysing results, collaborating with social scientists and policymakers alongside other researchers and engineers. I'm interested in exploring what growing AI capabilities mean for society, and how we can work to reduce the potential for societal harm from AI.
+Data scientist/researcher/engineer conducting and applying research around AI Safety and Online Safety at the Alan Turing Institute.
 
 I'm currently a Senior Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk/) in London UK, in the [Online Safety](https://www.turing.ac.uk/research/research-programmes/public-policy/public-policy-themes/online-safety) team within the [Public Policy Programme](https://www.turing.ac.uk/research/research-programmes/public-policy).
 
