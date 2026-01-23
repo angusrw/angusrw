@@ -2,7 +2,7 @@
 
 Data scientist/researcher/engineer conducting and applying research around AI Safety and Online Safety: fine-tuning language models, analysing real world data, red-teaming LLMS, developing safety eval methodologies.
 
-I'm currently a Senior Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk/) in London UK, in the [Online Safety](https://www.turing.ac.uk/research/research-programmes/public-policy/public-policy-themes/online-safety) team within the [Public Policy Programme](https://www.turing.ac.uk/research/research-programmes/public-policy).
+I'm currently a Senior Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk/) in London UK.
 
 <div align="center">
 <img src="https://github.com/angusrw/angusrw/blob/aef34840a03f397bfdefa39f11b32368541a4e58/img/slidbar.gif" alt=None align="center" width=1000>
