@@ -1,14 +1,6 @@
-<img src="https://github.com/angusrw/angusrw/blob/aef34840a03f397bfdefa39f11b32368541a4e58/img/welcome2.gif" alt="Welcome" align="center" width=365>
+Researcher and Engineer building autonomous evals for sociotechnical AI safety.
 
-Data scientist/researcher/engineer conducting and applying research around AI Safety and Online Safety: fine-tuning language models, analysing real world data, red-teaming LLMS, developing safety eval methodologies.
-
-I'm currently a Senior Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk/) in London UK.
-
-<div align="center">
-<img src="https://github.com/angusrw/angusrw/blob/aef34840a03f397bfdefa39f11b32368541a4e58/img/slidbar.gif" alt=None align="center" width=1000>
-</div>
-
-<br>
+Currently an Open-Source AI Fellow at [The Incubator for AI](https://ai.gov.uk/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-arw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arw/)](https://www.linkedin.com/in/arw/)
 [![Twitter Badge](https://img.shields.io/badge/-angusrw4-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/angusrw4)
