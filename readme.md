@@ -1,4 +1,4 @@
-Researcher and Engineer building autonomous evals for sociotechnical AI safety.
+Researcher and Engineer building systems for evaluating sociotechnical AI safety.
 
 Currently an Open-Source AI Fellow at [The Incubator for AI](https://ai.gov.uk/).
 
