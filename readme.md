@@ -1,6 +1,6 @@
-Researcher and Engineer building systems for evaluating sociotechnical AI safety.
+Modelling complex behaviours as agentic systems and evaluating AI safety
 
-Currently an Open-Source AI Fellow at [The Incubator for AI](https://ai.gov.uk/).
+Currently Open-Source AI Fellow at [The Incubator for AI](https://ai.gov.uk/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-arw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arw/)](https://www.linkedin.com/in/arw/)
 [![Twitter Badge](https://img.shields.io/badge/-angusrw4-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/angusrw4)
